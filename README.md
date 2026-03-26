@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**kaushik-negi/kaushik-negi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kaushik Negi, an aspiring software engineer based in India.
 
-Here are some ideas to get you started:
+I build whatever I find interesting or challenging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it — you can find it in my repositories.
+
+I have a bunch of pinned projects, but my favourite is _______.
+
+I've built several projects, and there’s more I’ve worked on privately.
+
+---
+
+## Tools & Tech
+- Java  
+- React ,Tailwind CSS  
+- Node.js ,Express.js  
+- MongoDB  
+
+---
+
+## A bit about me
+- I enjoy problem solving and debugging  
+- I like building real-world projects  
+- Currently learning DSA and Machine Learning  

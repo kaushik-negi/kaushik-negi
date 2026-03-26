@@ -21,6 +21,6 @@ I've built several projects, and there’s more I’ve worked on privately.
 ---
 
 ## A bit about me
-- I enjoy problem solving and debugging  
-- I like building real-world projects  
+- 😉I enjoy problem solving and debugging  
+- ⛏I like building real-world projects  
 - Currently learning DSA and Machine Learning  
